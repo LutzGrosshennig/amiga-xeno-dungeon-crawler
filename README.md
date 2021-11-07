@@ -10,6 +10,10 @@ I do remenber that we got the serial link working but I need to figure out the s
 
 # Screenshots
 
+## In game
+
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/ScreenShot.png)
+
+## Inventory concept art
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Inventory.gif)
