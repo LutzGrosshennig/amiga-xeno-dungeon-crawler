@@ -23,6 +23,7 @@ I do remenber that we got the serial link working but I need to figure out the s
 
 Bear in mind that this code is 30 years old, I did not know better back then, I do now :-) and startet a new project called 'Xenomorph 2409' and you can find its devlog here:
 
+You can watch a work in progress version of "Xenomorph 2409" on YouTube:
 
 <div align="center">
  <a href="https://www.youtube.com/watch?feature=player_embedded&v=phD2-d7OQRk" target="_blank"><img src="https://img.youtube.com/vi/phD2-d7OQRk/3.jpg" alt="Xenomorph 2409"    width="240" height="180" border="10" /></a>
