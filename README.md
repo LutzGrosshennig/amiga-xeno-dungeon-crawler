@@ -11,7 +11,7 @@ I do remenber that we got the serial link working but I need to figure out the s
 
 # Screenshots
 
-## In game
+## In game (placeholder graphics)
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/ScreenShot.png)
 
