@@ -25,9 +25,7 @@ Bear in mind that this code is 30 years old, I did not know better back then, I 
 
 You can watch a work in progress version of "Xenomorph 2409" on YouTube:
 
-<div align="center">
- <a href="https://www.youtube.com/watch?feature=player_embedded&v=phD2-d7OQRk" target="_blank"><img src="https://img.youtube.com/vi/phD2-d7OQRk/3.jpg" alt="Xenomorph 2409"    width="240" height="180" border="10" /></a>
-</div>
+[![](http://img.youtube.com/vi/phD2-d7OQRk/0.jpg)](http://www.youtube.com/watch?v=phD2-d7OQRk "")
 
 Complete devlog is here:
 
