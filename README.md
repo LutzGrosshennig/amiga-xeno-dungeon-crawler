@@ -16,7 +16,7 @@ I do remenber that we got the serial link kind of working but I need to figure o
 
 ## Alternate tile settings
 
-![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/AlternateTileset.png)
+![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/AlternateTileset.PNG)
 
 ## Inventory concept art
 
