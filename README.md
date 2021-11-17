@@ -10,6 +10,10 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 # Screenshots
 
+## Multiplayer (serial link coop)
+
+![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Multiplayer.gif)
+
 ## In game (placeholder graphics)
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/ScreenShot.png)
@@ -21,10 +25,6 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 ## Inventory concept art
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Inventory.gif)
-
-## Multiplayer (serial link)
-
-![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Multiplayer.gif)
 
 # Notes about the code
 
