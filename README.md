@@ -18,7 +18,7 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/ScreenShot.png)
 
-## Alternate tile settings
+## Alternate tile set
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/AlternateTileset.PNG)
 
@@ -28,12 +28,12 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 # Notes about the code
 
-Bear in mind that this code is 30 years old, there was no Internet in those days to search for information (BBS where the closest thing to a internet) so you had to either a.) buy rather expensive books (most of them where not worth the money) or b.) reverse engineer existing code.
+Bear in mind that this code is 30 years old and did not age well. Back then there was no Internet search for or look up information (BBS where the closest thing to a internet) so you had to either a.) buy rather expensive books (most of them where not worth the money) or b.) reverse engineer existing code.
 All I needed to know about the serial.device I learned by reverse engineering a terminal programm (I cant recall which one). Its basically my first attempt to do remote process communication. Its flimsy and lacks all what you need to do a reliable communication protocol but it does work if you follow the usage guidelines.
 
 ## But why are your old assembly sources all in CAPS?
 
-30 years ago the only affortable and durable "backup" solution my younger self had access to, where paper hardcopies. 9 pin dotmatrix printers of that time where terrible printing lowercase letters! Having everything in uppercase was far more readable on printed listings.
+30 years ago the only affortable and durable "backup" solution my younger self had access to, where paper hardcopies. 9 pin dot matrix printers of that time where terrible printing lowercase letters! Having everything in uppercase was far more readable on printed listings.
 
 ## How to build
 
