@@ -44,14 +44,14 @@ Unfortunatly I dont own a real amiga anymore but I managed to run two instances 
 Under IO-Port select the "WinUAE inter-process serial port". WinUAE will show "(master)" for the first instance automatically.
 Untick all the box below the selection box!
 
-![WinUAE_Server](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_1.PNG)
+![WinUAE_Server](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_1.png)
 
 ## WinUAE settings for the client instance
 
 For the second instance (it can be the same config file) again select the "WinUAE inter-process serial port". This time WinUAE will automatically add "(slave)" to the selection.
 Untick all the box below the selection box!
 
-![WinUAE_Client](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_2.PNG)
+![WinUAE_Client](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_2.png)
 
 ## Start the solo/server instance
 
