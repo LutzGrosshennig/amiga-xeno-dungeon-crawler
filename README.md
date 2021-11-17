@@ -46,23 +46,24 @@ Unfortunatly I dont own a real amiga anymore but I managed to run two instances 
 ## WinUAE settings for the solo/server instance
 
 Under IO-Port select the "WinUAE inter-process serial port". WinUAE will show "(master)" for the first instance automatically.
-Untick all the box below the selection box!
+Untick all the boxes below the selection box!
 
 ![WinUAE_Server](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_1.png)
 
 ## WinUAE settings for the client instance
 
 For the second instance (it can be the same config file) again select the "WinUAE inter-process serial port". This time WinUAE will automatically add "(slave)" to the selection.
-Untick all the box below the selection box!
+Untick all the boxes below the selection box!
 
 ![WinUAE_Client](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/WinUAE-SerialCrossOver_2.png)
 
 ## Start the solo/server instance
 
-You can now start the solo/server instance by running the executable from a CLI. Just type "xeno" and hit enter. Without additional parameters the game will launch and you can start playing. It does listen to incoming traffic via the serial port automatically become a server.
-If your solo/server instance is running switch over to the 2nd WinUAE instance and start the excecutable with an additional argument (any will do) like for example "xeno c". 
+You can now start the solo/server instance by running the executable from a CLI. Just type "xeno" and hit enter. Without additional parameters the game will launch and you can start solo playing. It does listen for incoming traffic via the serial port and automatically become a server.
 
-Both instances should be linked now and you can start chaseing yourself.
+Once your solo/server instance is running switch over to the 2nd WinUAE instance and start the excecutable with an additional argument (anything will do) like for example "xeno c". 
+
+Both instances should be linked now and you can start chaseing yourself!
 
 ## Requirements
 
@@ -70,12 +71,11 @@ It was developed on a Amiga 2000 (A) with 1MB Ram (512 kb Chip & 512kb Slow) run
 
 # Does it work on real hardware?
 
-Yes, we used to link two Amiga 500 using a cross over cable back then. I am only unsure if I had to lower the baud rate from 19200 to 9600.
-
+Yes, we used to link two Amiga 500 using a cross over cable back then. I am only unsure if I had to lower the baud rate from 19200 to 9600 (could be that a stock A500 with only 512kb chip ram can only handle 9600)...
 
 # Whats next?
 
-Bear in mind that this code is 30 years old, I did not know better back then, I do now :-) and si I startet a new project called 'Xenomorph 2409'
+Bear in mind that this code is 30 years old, I did not know better back then, I do now :-) and so I startet a new project called 'Xenomorph 2409'
 
 You can watch a work in progress version of "Xenomorph 2409" on YouTube:
 
