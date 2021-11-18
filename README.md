@@ -26,6 +26,10 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Inventory.gif)
 
+# The controls
+
+You can use the cursor up and down to move forward/backward. Curor left and right will turn you 90°. A click on the left mouse button will exit the tech demo.
+
 # Notes about the code
 
 Bear in mind that this code is 30 years old and did not age well. Back then there was no Internet search for or look up information (BBS where the closest thing to a internet) so you had to either a.) buy rather expensive books (most of them where not worth the money) or b.) reverse engineer existing code.
