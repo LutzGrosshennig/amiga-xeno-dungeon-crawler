@@ -28,16 +28,16 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 # The controls
 
-You can use the cursor up and down to move forward/backward. Curor left and right will turn you 90°. A click on the left mouse button will exit the tech demo.
+You can use the cursor up and down to move forward/backward. Cursor left and right will turn you 90°. A click on the left mouse button will exit the tech demo.
 
 # Notes about the code
 
-Bear in mind that this code is 30 years old and did not age well. Back then there was no Internet search for or look up information (BBS where the closest thing to a internet) so you had to either a.) buy rather expensive books (most of them where not worth the money) or b.) reverse engineer existing code.
-All I needed to know about the serial.device I learned by reverse engineering a terminal programm (I cant recall which one). Its basically my first attempt to do remote process communication. Its flimsy and lacks all what you need to do a reliable communication protocol but it does work if you follow the usage guidelines.
+Bear in mind that this code is 30 years old and did not age well. Back then there was no Internet search you could use to look up information (BBS where the closest thing to a internet) so you had to either a.) buy rather expensive books (most of them where not worth the money) or b.) reverse engineer existing code.
+All I needed to know about the serial.device I learned by reverse engineering a terminal program (I cant recall which one). Its basically my first attempt to do remote process communication. Its flimsy and lacks all what you need to do a reliable communication protocol but it does work if you follow the usage guidelines. At least I learned quiet a lot of remote communication which I later used in a medical application that is still in use.
 
 ## But why are your old assembly sources all in CAPS?
 
-30 years ago the only affortable and durable "backup" solution my younger self had access to, where paper hardcopies. 9 pin dot matrix printers of that time where terrible printing lowercase letters! Having everything in uppercase was far more readable on printed listings.
+30 years ago the only affortable and durable "backup" solution my younger self had access to, where paper hardcopies. 9 pin dot matrix printers of that time where terrible printing lowercase letters! Having everything in uppercase was far more readable on printed listings. So in hindsight it was part of the backup strategy to write everything in CAPS.
 
 ## How to build
 
@@ -63,7 +63,7 @@ Untick all the boxes below the selection box!
 
 ## Start the solo/server instance
 
-You can now start the solo/server instance by running the executable from a CLI. Just type "xeno" and hit enter. Without additional parameters the game will launch and you can start solo playing. It does listen for incoming traffic via the serial port and automatically become a server.
+You can now start the solo/server instance by running the executable from a CLI. Just type "xeno" and hit enter. Without additional parameters the game will launch and you can start solo playing. It does listen for incoming traffic via the serial port and automatically become a server if data is available in the input buffer.
 
 Once your solo/server instance is running switch over to the 2nd WinUAE instance and start the excecutable with an additional argument (anything will do) like for example "xeno c". 
 
