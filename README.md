@@ -12,6 +12,8 @@ So this is basically a tech-demo because its missing all the game mechanics and 
 
 ## Multiplayer (serial link coop)
 
+Yes the yellow rectangle is the other player (it is just a placeholder image)
+
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-xeno-dungeon-crawler/blob/main/images/Multiplayer.gif)
 
 ## In game (placeholder graphics)
